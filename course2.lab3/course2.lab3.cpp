@@ -14,4 +14,5 @@ int main()
     std::cout << vector1 << "\n";
     std::cin >> vector1;
     std::cout << vector1;
+    //
 }
